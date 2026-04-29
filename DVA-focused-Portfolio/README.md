@@ -1,17 +1,17 @@
-# DVA-Focused Portfolio
+# Team Members
 
-Use this folder as a reminder for each student to convert the capstone into a portfolio-ready case study.
+## Portfolio Links
 
-## Portfolio Case Study Should Cover
+| Name                  | Portfolio Link                                      |
+|-----------------------|------------------------------------------------------|
+| Preetish Ubhrani         | [View Portfolio](https://dva-portfolio-kappa.vercel.app/)    |
+| Alok Singh Tomar        | [View Portfolio](https://aloksinghtomar100.github.io/alokprofile/)     |
+| Animesh Kumar Rai          | [View Portfolio](https://animesh197.github.io/DVA_Portfolio/)      |
+| Sayooj S B          | [View Portfolio]()     |
+| Anshika Seth        | [View Portfolio](https://anshika292005.github.io/)       |
+| Siddhanth S. Raikar            | [View Portfolio]()      |
 
-- Problem statement and stakeholder context
-- Dataset source and scope
-- Cleaning and transformation summary
-- KPI framework
-- 3-5 key insights
-- Tableau dashboard screenshots and link
-- Recommendations and expected impact
+---
 
-## Suggested Deliverable
-
-Add a short write-up in your personal portfolio site, Notion page, or PDF case study with a link back to this repository.
+## Connect
+Click on any link to view the portfolio.
